@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gehan-Atapattu
+<h1 align="center">Hi 👋, I'm Gehan Atapattu</h1>
 - 👀 I’m interested in full stack development, cloud, AI
 - 🌱 I’m currently learning cloud and AI
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Gehan-Atapattu/Gehan-Atapattu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
