@@ -3,6 +3,36 @@
 - 🌱 I’m currently learning cloud and AI
 - 😄 Pronouns: ...
 
+Hi, I'm Gehan 👋
+
+Full Stack Developer with experience building scalable web and mobile applications.
+
+🟢 Backend
+- Java
+- Spring Boot
+- PostgreSQL
+- Redis
+- Kafka
+
+🔵 Frontend
+- React
+- TypeScript
+- Next.js
+
+🟣 Mobile
+- React Native
+- Android
+- iOS
+
+🟠 Cloud
+- AWS
+- Docker
+- GitHub Actions
+
+🌱 Currently Learning
+- System Design
+- Event-Driven Architecture
+- Distributed Systems
 
 <!---
 Gehan-Atapattu/Gehan-Atapattu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
